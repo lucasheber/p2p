@@ -1,4 +1,4 @@
-#coding utf-8
+# coding: utf-8
 
 '''
     O Programa abaixo faz a implementação do servidor P2P.
